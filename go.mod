@@ -6,7 +6,7 @@ require (
 	github.com/CosmWasm/token-factory v0.0.0-00010101000000-000000000000
 	github.com/CosmWasm/wasmd v0.31.0
 	github.com/cometbft/cometbft-db v0.9.1
-	github.com/cosmos/cosmos-sdk v0.50.6
+	github.com/cosmos/cosmos-sdk v0.50.7
 	github.com/cosmos/gaia/v9 v9.0.1
 	github.com/cosmos/ibc-go/v4 v4.5.1
 	github.com/gogo/protobuf v1.3.3
@@ -32,7 +32,7 @@ require (
 	cosmossdk.io/log v1.3.1 // indirect
 	cosmossdk.io/math v1.3.0 // indirect
 	cosmossdk.io/store v1.1.0 // indirect
-	cosmossdk.io/x/tx v0.13.2 // indirect
+	cosmossdk.io/x/tx v0.13.3 // indirect
 	github.com/DataDog/datadog-go v3.2.0+incompatible // indirect
 	github.com/bits-and-blooms/bitset v1.8.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
@@ -69,7 +69,7 @@ require (
 )
 
 require (
-	cosmossdk.io/api v0.7.4 // indirect
+	cosmossdk.io/api v0.7.5 // indirect
 	cosmossdk.io/core v0.11.0 // indirect
 	cosmossdk.io/depinject v1.0.0-alpha.4 // indirect
 	filippo.io/edwards25519 v1.0.0 // indirect
