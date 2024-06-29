@@ -7,7 +7,7 @@ require (
 	github.com/CosmWasm/wasmd v0.31.0
 	github.com/cometbft/cometbft-db v0.9.1
 	github.com/cosmos/cosmos-sdk v0.50.6
-	github.com/cosmos/gaia/v9 v9.0.1
+	github.com/cosmos/gaia/v9 v9.1.1
 	github.com/cosmos/ibc-go/v4 v4.5.1
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/protobuf v1.5.4
