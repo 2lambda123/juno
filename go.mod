@@ -17,7 +17,7 @@ require (
 	github.com/prometheus/client_golang v1.20.5
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/cobra v1.8.1
-	github.com/strangelove-ventures/packet-forward-middleware/v4 v4.0.5
+	github.com/strangelove-ventures/packet-forward-middleware/v4 v4.0.6
 	github.com/stretchr/testify v1.9.0
 	github.com/tendermint/tendermint v0.34.27
 	github.com/tendermint/tm-db v0.6.8-0.20220506192307-f628bb5dc95b
