@@ -53,8 +53,8 @@ github.com/ChainSafe/go-schnorrkel v1.0.0 h1:3aDA67lAykLaG1y3AOjs88dMxC88PgUuHRr
 github.com/ChainSafe/go-schnorrkel v1.0.0/go.mod h1:dpzHYVxLZcp8pjlV+O+UR8K0Hp/z7vcchBSbMBEhCw4=
 github.com/CosmWasm/wasmd v0.30.0 h1:oUVz3TgO/+24JZQdoTOlOv+IK7N9hEa/s3M4eR9i4FQ=
 github.com/CosmWasm/wasmd v0.30.0/go.mod h1:umLGeYyowAMMEdOYfDOf8jsDrQ75Qkm1+ogBXT/w01c=
-github.com/CosmWasm/wasmvm v1.5.5 h1:XlZI3xO5iUhiBqMiyzsrWEfUtk5gcBMNYIdHnsTB+NI=
-github.com/CosmWasm/wasmvm v1.5.5/go.mod h1:Q0bSEtlktzh7W2hhEaifrFp1Erx11ckQZmjq8FLCyys=
+github.com/CosmWasm/wasmvm v1.5.8 h1:vrmAvDuXcNqw7XqDiVDIyopo9gNdkcvRLFTC8+wBb/A=
+github.com/CosmWasm/wasmvm v1.5.8/go.mod h1:2qaMB5ISmYXtpkJR2jy8xxx5Ti8sntOEf1cUgolb4QI=
 github.com/CosmosContracts/juno/v13 v13.0.0 h1:/1pikuWzkT9a3WN+o7JBgwvgzWFDF5cIpzJoXoHdHYo=
 github.com/CosmosContracts/juno/v13 v13.0.0/go.mod h1:Woy1aY09yjO04m+9DQuNUOy10NTyLT0RcoysqfZGCyM=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
